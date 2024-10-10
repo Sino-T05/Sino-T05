@@ -1,4 +1,4 @@
-## Hi i'm <span style="color: blue;">Ashish Muchahary</span>🎗️
+## Hi i'm <font color="blue">Ashish Muchahary</font>🎗️
 # 💫 About Me:
 🔭 I’m currently working on MERN stack development<br><br>👯 I’m looking to collaborate on MERN project <br><br>🌱 I’m currently learning web development<br> 
 
