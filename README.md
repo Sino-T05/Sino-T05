@@ -29,7 +29,10 @@
   </a>
 </p> 
 
-<h2 align="center">⚡ Stats: </h2>
+<h2 align="center">⚡📊 GitHub Stats: </h2>
 
+![](https://github-readme-stats.vercel.app/api?username=Sino-T05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sino-T05&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sino-T05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
