@@ -11,7 +11,7 @@
 <div align="center">
 🌱 I’m currently working on <strong>MERN STACK PROJECT.</strong><br>
 🌱 I’m currently learning <strong>MERNSTACK, JAVA, PYTHON.</strong><br>
-💬 Ask me about <strong>Frontend & Backend development.</strong> or anything
+💬 Ask me about <strong>Frontend & Backend development</strong> or anything.
 </div>
  
 <h2 align="center">💻Languages-Frameworks-Databases: </h2>
