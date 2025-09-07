@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+UI/UX+Designer & Frontend Designer!;" />
 🌱 I’m currently working on <strong>MERN STACK PROJECT.</strong><br>
 🌱 I’m currently learning <strong>MERNSTACK, JAVA, PYTHON.</strong><br>
 💬 Ask me about <strong>Frontend & Backend development</strong> or anything.
