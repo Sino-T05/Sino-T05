@@ -14,16 +14,16 @@
 <h2 align="center">💻Languages-Frameworks-Databases: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=HTML" />
+    <img src="https://skillicons.dev/icons?i= Js " />
   </a>
-</p> 
+</p>
 
 <h2 align="center">⚙️Tools: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,npm,powershell,bash" />
   </a>
-</p> 
+</p>
 
 <h2 align="center">⚡📊 GitHub Stats: </h2>
 
