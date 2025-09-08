@@ -14,7 +14,7 @@
 <h2 align="center">💻Languages-Frameworks-Databases: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,mysql,cpp,js,html,css,tailwindcss,python,java,nodejs,react,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p> 
 
